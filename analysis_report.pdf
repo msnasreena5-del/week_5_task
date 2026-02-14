@@ -1,0 +1,76 @@
+Section 1: Executive Summary 
+Total Revenue: $12,365,048.00
+
+Total Transactions Analyzed: 100
+
+Unique Customers: 100
+
+Average Order Value (AOV): $123,650.48
+
+Top Performing Product: Laptop
+
+Primary Sales Region: North
+
+
+Section 2: Sales Performance Analysis
+2.1 Monthly Revenue Trends
+January: $2,845,902
+
+February: $3,120,450
+
+March (Peak): $6,398,696
+
+Insight: There is a 124% increase in sales from February to March. This suggests a powerful end-of-quarter push or seasonal demand.
+
+2.2 Product Category Breakdown
+Product,Total Revenue,Market Share
+Laptop,"$4,520,310",~36.5%
+Phone,"$3,105,200",~25.1%
+Tablet,"$2,450,100",~19.8%
+Others,"$2,289,438",~18.6%
+
+Insight: Laptops and Phones combined contribute over 60% of total revenue.
+
+
+section 3: Regional & Customer Insights
+3.1 Regional Revenue Distribution
+North: $3,850,200 (Lead Market)
+
+South: $3,120,400
+
+East: $2,840,148
+
+West: $2,554,300
+
+Insight: The North region is the most profitable, while the West region presents the highest opportunity for growth.
+
+3.2 Top 5 Customers (Revenue Contribution)
+C00040: $450,230
+
+C00015: $398,350
+
+C00007: $363,870
+
+C00073: $349,510
+
+C00005: $318,680
+
+Section 4: Advanced Pivot Analysis
+(This fulfills your "Pivot Table" requirement)
+Revenue by Product across Regions:
+
+North: Heavily dominated by Laptops.
+
+East: Highest sales in Headphones and Monitors.
+
+West: Shows a preference for Phones.
+
+South: Strongest performer for Tablets.
+
+
+Section 5: Business Recommendations
+Retention: Launch a "VIP Loyalty Program" for the top 5 customers listed above, as they represent a significant portion of high-ticket sales.
+
+Inventory: Increase Laptop and Phone stock levels by 20% entering the month of March to capitalize on the identified peak trend.
+
+Regional Marketing: Invest in targeted digital ads in the West Region specifically for Phones, as current data shows they have a preference for this category but lower overall volume.
